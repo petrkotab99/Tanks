@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InputContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ActionKeys>
+    <Item>
+      <Key>
+        <string>exitGame</string>
+      </Key>
+      <Value>
+        <ActionKey>
+          <Key>Escape</Key>
+          <Respond>exitGame</Respond>
+        </ActionKey>
+      </Value>
+    </Item>
+	<Item>
+      <Key>
+        <string>fullscreen</string>
+      </Key>
+      <Value>
+        <ActionKey>
+          <Key>F11</Key>
+          <Respond>fullscreen</Respond>
+        </ActionKey>
+      </Value>
+    </Item>
+  </ActionKeys>
+</InputContext>

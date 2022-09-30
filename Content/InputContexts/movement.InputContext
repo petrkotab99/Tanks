@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InputContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+    <Item>
+      <Key>
+        <string>moveLeft</string>
+      </Key>
+      <Value>
+        <Keys>A</Keys>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>moveRight</string>
+      </Key>
+      <Value>
+        <Keys>D</Keys>
+      </Value>
+    </Item>
+  </Keys>
+</InputContext>

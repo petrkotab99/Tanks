@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/errorTexture.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/battleWheel.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/sun.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/cloud4.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/cloud5.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/cloud1.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/cloud2.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/cloud3.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Fonts/grinched.spritefont</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Fonts/arial.spritefont</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/missile.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/bar.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/progress.png</File>
+    <File>C:/Users/Petr/Dropbox/programování/Projects/Tanks/Content/Textures/lifes.png</File>
+  </SourceFiles>
+</SourceFileCollection>
